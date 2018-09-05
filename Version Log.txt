@@ -21,8 +21,8 @@ FUTURE MAJOR VERSIONS
 
 
 GAME STAGES
-Alpha is the first stage - Basic constructs to get the world started
-Beta is the second stage - Beginning more complex game constructs
+Alpha is the first stage - Basic constructs to get the world started		(terrain, water etc)
+Beta is the second stage - Beginning more complex game constructs			(custom structures)
 Full Release             - Game is either almost complete or is complete
 
 
@@ -38,22 +38,25 @@ ________________________________________________________________________________
 	
 		Changes:
 
-	- Added terrain as part of testing
-	- Added spawn
+	- Begun sculpting terrain - mountain and flat plane
+	* the terrain will most likely be not complete in this update and will be worked on more 
+	in later versions
+	- Added water shader that supports vr (TEST)
+	* water is very heavily fine tuned for world setting, current shader settings may change
+	in the future
+	- Added skybox
+	- Added jumping
+	* jump power is 3
+	- Texturised terrain with over 15+ different Ground_textures
+	* currently not fully complete 
+	
+		Here comes the first update to this new VRChat world! at the moment i have no name 
+		for it so for now we'll call it Lonely Road2. And yes its lonely road TWO.
+		the first was made in Roblox and was a big project back in 2013-2015, but only this
+		year i offically ended the project due to inactivity/ broken
 	
 
 -------------------------------------------------------------------------------------------
-
-
-			Version: Alpha 0.2 |
-	
-		Changes:
-
-	- Removed terrain
-	- Added Vietra
-
-	
-Version log now available in Github! :D
-
-
 -------------------------------------------------------------------------------------------
+
+	
