@@ -8,22 +8,22 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________
 
 
-ALL MAJOR UPDATES IN THEY'RE FORM
+	ALL MAJOR UPDATES IN THEY'RE FORM
 
-RELEASED VERSIONS
-Update 0.0: The Creation
-Description: The birth of the game
+RELEASED MAJOR VERSIONS
+ Update 0.0: The Creation
+ Description: The birth of the game
 
 
 FUTURE MAJOR VERSIONS
-###
-###
+ ###
+ ###
 
 
 GAME STAGES
-Alpha is the first stage - Basic constructs to get the world started		(terrain, water etc)
-Beta is the second stage - Beginning more complex game constructs			(custom structures)
-Full Release             - Game is either almost complete or is complete
+ Alpha is the first stage - Basic constructs to get the world started		(terrain, water etc)
+ Beta is the second stage - Beginning more complex game constructs			(custom structures)
+ Full Release             - Game is either almost complete or is complete
 
 
 ___________________________________________________________________________________________
@@ -39,24 +39,29 @@ ________________________________________________________________________________
 		Changes:
 
 	- Begun sculpting terrain - mountain and flat plane
-	* the terrain will most likely be not complete in this update and will be worked on more 
+	 *the terrain will most likely be not complete in this update and will be worked on more 
 	in later versions
 	- Added water shader that supports vr (TEST)
-	* water is very heavily fine tuned for world setting, current shader settings may change
-	in the future
+	 *water is very heavily fine tuned for world setting, current shader settings may change
+	in the future + VR has been tested and works fine
 	- Added skybox
-	- Added jumping
-	* jump power is 3
+	- Added the jump mechanic
+	 *jump power is 3
 	- Texturised terrain with over 15+ different Ground_textures
-	* currently not fully complete 
+	 *currently not fully complete 
 	
 		Here comes the first update to this new VRChat world! at the moment i have no name 
-		for it so for now we'll call it Lonely Road2. And yes its lonely road TWO.
+		for it so for now we'll call it Lonely Road 2. And yes its lonely road TWO.
 		the first was made in Roblox and was a big project back in 2013-2015, but only this
-		year i offically ended the project due to inactivity/ broken
+		year i have offically ended development due to inactivity/ brokenness.
+		
+		To understand more about why this world has this link go visit the 
+		VT - LR Concept Plan, you can also find out the concept on this world and what it
+		may become in the future.
 	
+	
+___________________________________________________________________________________________
 
--------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------
+___________________________________________________________________________________________
 
 	
