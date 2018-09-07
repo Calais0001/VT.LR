@@ -23,7 +23,7 @@ FUTURE MAJOR VERSIONS
 GAME STAGES
  Alpha is the first stage - Basic constructs to get the world started		(terrain, water etc)
  Beta is the second stage - Beginning more complex game constructs			(custom structures)
- Full Release             - Game is either almost complete or is complete
+ Full Release			  - Game is either almost complete or is complete
 
 
 ___________________________________________________________________________________________
@@ -60,6 +60,40 @@ ________________________________________________________________________________
 		may become in the future.
 	
 	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.2 | Graphical implementations + Terrain
+	
+		Changes:
+
+	- Added rain
+	 *heavy work is to be done on this + 100% not performance checked
+	- Added Volumetric ray-traced clouds
+	 *very intensive on GPU - due to this it has been disabled until i can figure out
+	  graphics toggling (refer to changelog description)
+	- More work on the terrain texturing
+	 *considered complete at this stage
+	- Slight optimizations too the ocean shader
+	 *it now appears much better with the lighting/stormy setting, also the parralax
+	  has been greately improved for wide and high stormy waves without creating ugly
+	  spikes.
+	- Partially completed terrain grass textures
+	 *colors and appearance may be incorrect, more testing and editing is to be completed
+	- KNOWN ISSUE: at load time the rain maker appears to spawn the particles then halt then
+	  begin again, this issue is unknown at this time.
+	
+		
+	This update contains roughly a weeks worth of work. Many changes have been made including
+	performance optimisations, terrain texture and form changes, additions such as volumetric 
+	clouds and many more.
+	
+	At this moment the volumetric clouds has been disabled due to heavy performance drops
+	whilst running the game in VR mode. Until i can add a local graphics control panel for 
+	users to toggle various graphical enhancements within the game i will re-enable them,
+	this goes for any other visual effects that i will include in the final version.
+
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________

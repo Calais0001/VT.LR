@@ -23,7 +23,7 @@ VETRA & LONELY ROAD CONNECTED CONCEPT PLAN
 	-Some kind of main island with a wood house for myself as a hangout area
 	-Particle system that has rain - this will be tricky as i want it performance friendly!
 	-World setting to be dark and stormy which is inspired by L.ROAD
-	-The original theme song hidden somwhere
+	-The original theme song hidden somewhere
 
 ___________________________________________________________________________________________
 
@@ -32,18 +32,19 @@ SHORT NOTES ABOUT VIETRA GALAXY AND LONELY ROAD
 
 	VETRA(VT) is Vietra Galaxy and is my main avatar for VRChat
 	
-		Vetra was never born but existed from a cloud of purple vapour surrounded by the
+		Vetra was never born but existed as a cloud of purple vapour surrounded by the
 		blackness of space. she grew and lived for billions of years until awakening
 		recently due to being.. Called out by somthing, they called her Vetra or the 
-		Purple Wind 
+		Purple Wind.
 	
 	LONELY ROAD(LR) is a world i worked on within Roblox since 2013
 	
 		Lonely Road was based in an alternate universe where all time periods came into one
-		dimension which was known as the Akriah dimension. Storys and legacys state that 
-		when traveling somwhere out south of the atlantic ocean a time gate would open 
-		pulling in anything in its sourroundings and launching into the Akriah, this was 
-		known as the Lonely Road due to part of the Atlantic ocean being a restricted zone.
+		dimension which was known as the Akriah dimension. Storys and legacys tell that 
+		when traveling somewhere out south of the atlantic ocean a time gate would open 
+		pulling in anything in its sourroundings and launching it into the Akriah dimension, 
+		this was known as the Lonely Road due to the fact that half of the Atlantic was 
+		blocked off from the rest of the society.
 	
 
 ___________________________________________________________________________________________
