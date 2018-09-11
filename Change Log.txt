@@ -1,7 +1,7 @@
 
-								   VETRA UPDATE NOTES
-								   VETRA UPDATE NOTES
-								   VETRA UPDATE NOTES
+								   VT-LR UPDATE NOTES
+								   VT-LR UPDATE NOTES
+								   VT-LR UPDATE NOTES
 
 ___________________________________________________________________________________________
 
@@ -93,6 +93,37 @@ ________________________________________________________________________________
 	whilst running the game in VR mode. Until i can add a local graphics control panel for 
 	users to toggle various graphical enhancements within the game i will re-enable them,
 	this goes for any other visual effects that i will include in the final version.
+
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.3 | Terrain Updates / Deep End
+	
+		Changes:
+
+	- Fixed the grass having some strange green line at the top of the texture
+	 *used an editor program
+	- Disabled billboard mode for grass
+	 *meaning it does not follow the camera
+	- Edited global_lighting and specular mapping
+	 *terrain and any outdoor objects now emit specularity as if it were wet
+	- Added rocks near the shoreline
+	 *more work on this
+	- Added more different types of grass too the scene
+	- Water shader has been modified
+	 *waves were big but appeared as if the player was incredibly tiny - this is a work
+	  in progress + the search for a better water shader is in progress
+	- Work on more efficient and diverse rain particle system has begun
+
+	
+	Finally! this version introduces more realistic and complex shaders + all outdoor
+	objects now contain specularity.
+	
+	Soon i will begin searching for a more complex ocean shader but for now (due to
+	vrchat blocking scripts) we're stuck with the shader we have.
+	
 
 ___________________________________________________________________________________________
 
