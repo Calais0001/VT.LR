@@ -136,11 +136,11 @@ ________________________________________________________________________________
 	- Updated water shader
 	 *more continuous changes will happen until i think this shader appears perfect for
 	 the scene
-	- Begun working on Beta Version elements
-	 *progress on a cabin featuring unity cloth script has begun
+	- Begun working on Beta version elements
+	 *progress on a cabin featuring unity cloth script
 	 *added a space ship and picked a rough location for it
-	- Global_lighting temperature is now 10200
-	- Optimised a few textures and reduced their sizes accordingly 
+	- Global_lighting temperature value is now 10200
+	- Optimised a few textures and reduced their sizes accordingly
 	- Fixed global lighting bias issues
 	- Ocean shader blending completely removed
 	 *since V0.3 its been playing up so i have decided too make it just a straight height
@@ -153,6 +153,7 @@ ________________________________________________________________________________
 	 *this is purely too help with development - no performance improvements
 	- Experimentation with flares
 	 *beta element
+	- oceanShaderBlending has been disabled **
 
 
 	

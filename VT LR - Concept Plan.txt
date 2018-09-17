@@ -13,40 +13,51 @@ VETRA & LONELY ROAD CONNECTED CONCEPT PLAN
 
 		VETRA(VT) is Vietra Galaxy and is main avatar for VRChat
 
-	-The Monument structure has to be in an enclosed chamber on a rock island   (inspired by Bioshock: Infinite)
-	-Surrounded by water with a spiral staircase leading upwards to the entrance(Inspired by Monument Island from Lonely Road)
-	-On the inside there is a single room with Vietra Galaxy as a rock statue   (Inspired by the Statue within Monument Island)
-	-The inside is to have some kind of light shining down onto her and posibly 
-	with somthing relating to her eyes
-	-Maybe an engraving of her name on the statue base
-	
-	-Some kind of main island with a wood house for myself as a hangout area
-	-Particle system that has rain - this will be tricky as i want it performance friendly!
-	-World setting to be dark and stormy which is inspired by L.ROAD
-	-The original theme song hidden somewhere
+		MONUMENT ISLAND
+	- The Monument structure has to be in an enclosed chamber on a rock island   (Inspired by Bioshock: Infinite)
+	- Surrounded by water with a spiral staircase leading upwards to the entrance(Inspired by Monument Island from Lonely Road)
+	- On the inside there is a single room with Vietra Galaxy as a rock statue   (Inspired by the Statue within Monument Island)
+	- The inside is to have some kind of light shining down onto her and posibly 
+	  with somthing relating to her eyes
+	- Maybe an engraving of her name on the statue base
+	- use the portal shader/stencil for something
 
+		MAIN ISLAND
+	- A main island with a cabin that can serve as shelter
+	- Rain particle system - PERFORMANCE FRIENDLY HAS BEEN ACHIEVED
+	- World setting to be dark and stormy (Inspired by Lonely Road environment setting)
+	- Some sort of foliage coverage on the main island
+	- The original theme song hidden somewhere
+
+___________________________________________________________________________________________
 ___________________________________________________________________________________________
 
 
-SHORT NOTES ABOUT VIETRA GALAXY AND LONELY ROAD
+STORY ABOUT VIETRA GALAXY AND LONELY ROAD
 
 	VETRA(VT) is Vietra Galaxy and is my main avatar for VRChat
 	
 		Vetra was never born but existed as a cloud of purple vapour surrounded by the
 		blackness of space. she grew and lived for billions of years until awakening
 		recently due to being.. Called out by somthing, they called her Vetra or the 
-		Purple Wind.
-	
+		Purple Wind. The girl with eyes for a galaxy.
+
+
 	LONELY ROAD(LR) is a world i worked on within Roblox since 2013
 	
 		Lonely Road was based in an alternate universe where all time periods came into one
-		dimension which was known as the Akriah dimension. Storys and legacys tell that 
-		when traveling somewhere out south of the atlantic ocean a time gate would open 
-		pulling in anything in its sourroundings and launching it into the Akriah dimension, 
-		this was known as the Lonely Road due to the fact that half of the Atlantic was 
-		blocked off from the rest of the society.
-	
+		dimension, this dimension was known as the Akriah dimension. storys and rumours tell
+		that when traveling somewhere out south of the atlantic ocean a time gate would open 
+		pulling anything in its sourroundings and ejecting it into the Akriah dimension, this
+		was known as the Lonely Road due to the fact that half of the Atlantic was blocked
+		off from the rest of the society.
 
+
+	VRCWORLD(VT-LR) is a combo of VT & LR to form a great story - 2018 
+
+		 STORY NOT COMPILED YET - COME BACK SOON
+		 
+		 
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
