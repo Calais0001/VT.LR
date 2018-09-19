@@ -64,7 +64,7 @@ ________________________________________________________________________________
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.2 | Graphical implementations + Terrain
+			Version: Alpha 0.2 | Graphical implementations / Terrain
 	
 		Changes:
 
@@ -129,7 +129,7 @@ ________________________________________________________________________________
 -------------------------------------------------------------------------------------------
 
 
-			Version: Alpha 0.4 | Terrain Updates / Deep End
+			Version: Alpha 0.4 | Beta Elements / PS improvements
 	
 		Changes:
 
@@ -155,7 +155,6 @@ ________________________________________________________________________________
 	 *beta element
 	- oceanShaderBlending has been disabled **
 
-
 	
 	So since version 0.3 alpha the water shader has been playing up and i've even gone too
 	the extent of moving my whole scene too a new project but alas have failed. the issue 
@@ -171,6 +170,46 @@ ________________________________________________________________________________
 	ran	on low end machines. i have a i7 7700k 1080ti setup and run the map fine at 90fps.
 	
 
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Alpha 0.5 | Perfomance Improvements / Bug Fixes
+	
+		Changes:
+
+	- Revisioned the cabin roof
+	 *i am 83% with the total appearance of this cabin
+	- Fixed heavy performance drop from candles
+	 *changed from realtime to baked mode
+	- The front door of the cabin no longer has a collider?
+	- Removed spericle mirror in the bucket
+	 *anything but using a quad mesh breaks the mirror
+	- the light emitted from the bucket is now baked
+	- fixed another collider issue with the cloth sheets in the cabin
+	- fixed candle fire scale
+	- adjusted cloth script solverFrequency
+	 *solverFrequency = 160 (standard for moving objects) 60 (near still objects)
+	- ocean shader performance optimizations
+	 *tesselationStrength = 15 (orginally 64)
+	 *tesselationFarCap = 350 (orginally 2500)
+	- changed a few terrain texture sizes on their x, y axis
+	- grass now appears denser
+	- modified movement speed
+	 *walk speed set too 2.4 and run speed set too 4.5
+	- Draw distance set lower for terrain
+	 *to help your hardware from rendering everything way over there
+	
+	
+	This FINAL version for alpha is set too improve performance for older machines + squish
+	a whole bunch of pesky bugs!
+	
+	Now this is the best time too move onto bigger things! 
+	Beta will include objects and props such as finishing the cabin, starting on the crashed
+	space plane and Monument Island.
+	
+	All soon will be revealed, i have big plans for Beta.
+	
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
