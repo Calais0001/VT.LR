@@ -35,25 +35,27 @@ ________________________________________________________________________________
 
 
 			Version: Alpha 0.1 | First Release
+			Release Date: 9/5/2018
 	
 		Changes:
 
 	- Begun sculpting terrain - mountain and flat plane
 	 *the terrain will most likely be not complete in this update and will be worked on more 
 	in later versions
-	- Added water shader that supports vr (TEST)
+	- Added water shader that supports VR (TEST)
 	 *water is very heavily fine tuned for world setting, current shader settings may change
-	in the future + VR has been tested and works fine
+	in the future
+	 *the shader has been tested in VR and has passed.
 	- Added skybox
 	- Added the jump mechanic
 	 *jump power is 3
-	- Texturised terrain with over 15+ different Ground_textures
-	 *currently not fully complete 
+	- Textured terrain with over 15+ different Ground_textures
+	 *currently incomplete
 	
 		Here comes the first update to this new VRChat world! at the moment i have no name 
 		for it so for now we'll call it Lonely Road 2. And yes its lonely road TWO.
 		the first was made in Roblox and was a big project back in 2013-2015, but only this
-		year i have offically ended development due to inactivity/ brokenness.
+		year i have officially ended development due to inactivity/ faults.
 		
 		To understand more about why this world has this link go visit the 
 		VT - LR Concept Plan, you can also find out the concept on this world and what it
@@ -65,19 +67,20 @@ ________________________________________________________________________________
 
 
 			Version: Alpha 0.2 | Graphical implementations / Terrain
-	
+			Release Date: 9/7/2018
+			
 		Changes:
 
 	- Added rain
-	 *heavy work is to be done on this + 100% not performance checked
+	 *heavy work needs to be done on this + 100% not performance checked
 	- Added Volumetric ray-traced clouds
 	 *very intensive on GPU - due to this it has been disabled until i can figure out
-	  graphics toggling (refer to changelog description)
+	  graphics toggling (refer to change log description)
 	- More work on the terrain texturing
 	 *considered complete at this stage
-	- Slight optimizations too the ocean shader
-	 *it now appears much better with the lighting/stormy setting, also the parralax
-	  has been greately improved for wide and high stormy waves without creating ugly
+	- Slight optimizations to the ocean shader
+	 *it now appears much better with the lighting/stormy setting, also the parallax
+	  has been greatly improved for wide and high stormy waves without creating ugly
 	  spikes.
 	- Partially completed terrain grass textures
 	 *colors and appearance may be incorrect, more testing and editing is to be completed
@@ -85,7 +88,7 @@ ________________________________________________________________________________
 	  begin again, this issue is unknown at this time.
 	
 		
-	This update contains roughly a weeks worth of work. Many changes have been made including
+	This update has roughly a weeks worth of work. Many changes have been made including
 	performance optimizations, terrain texture and form changes, additions such as volumetric 
 	clouds and many more.
 	
@@ -100,6 +103,7 @@ ________________________________________________________________________________
 
 
 			Version: Alpha 0.3 | Terrain Updates / Deep End
+			Release Date: 9/11/2018	
 	
 		Changes:
 
@@ -111,7 +115,7 @@ ________________________________________________________________________________
 	 *terrain and any outdoor objects now emit specularity as if it were wet
 	- Added rocks near the shoreline
 	 *more work on this
-	- Added more different types of grass too the scene
+	- Added more different types of grass to the scene
 	- Water shader has been modified
 	 *waves were big but appeared as if the player was incredibly tiny - this is a work
 	  in progress + the search for a better water shader is in progress
@@ -122,7 +126,7 @@ ________________________________________________________________________________
 	objects now contain specularity.
 	
 	Soon i will begin searching for a more complex ocean shader but for now (due to
-	vrchat blocking scripts) we're stuck with the shader we have.
+	VRChat blocking scripts) we're stuck with the shader we have.
 	
 
 -------------------------------------------------------------------------------------------
@@ -130,6 +134,7 @@ ________________________________________________________________________________
 
 
 			Version: Alpha 0.4 | Beta Elements / PS improvements
+			Release Date: 9/19/2018	
 	
 		Changes:
 
@@ -140,24 +145,24 @@ ________________________________________________________________________________
 	 *progress on a cabin featuring unity cloth script
 	 *added a space ship and picked a rough location for it
 	- Global_lighting temperature value is now 10200
-	- Optimised a few textures and reduced their sizes accordingly
+	- Optimised a few textures and reduced their sizes
 	- Fixed global lighting bias issues
 	- Ocean shader blending completely removed
-	 *since V0.3 its been playing up so i have decided too make it just a straight height
+	 *since V0.3 its been playing up so i have decided to make it just a straight height
 	 map and normal map with cubemap reflections
 	- Added a massive cloud particle system behind the mountain
-	 *a hint too what might come? hmm..
-	- Small optimizations too the rain particle system
-	 *trying too make this performance friendly as much as i can
+	 *a hint to what might come? hmm..
+	- Small optimizations to the rain particle system
+	 *trying to make this performance friendly as much as i can
 	- Grouped all scene objects
-	 *this is purely too help with development - no performance improvements
+	 *this is purely to help with development - no performance improvements
 	- Experimentation with flares
 	 *beta element
 	- oceanShaderBlending has been disabled **
 
 	
-	So since version 0.3 alpha the water shader has been playing up and i've even gone too
-	the extent of moving my whole scene too a new project but alas have failed. the issue 
+	So since version 0.3 alpha the water shader has been playing up and i've even gone to
+	the extent of moving my whole scene to a new project but alas have failed. the issue 
 	persists and often fixes itself and then breaks again. this version it seems to be
 	working so blending has been re-activated but do keep in might this world may end up
 	with no ocean shader..
@@ -166,7 +171,7 @@ ________________________________________________________________________________
 	elements now. these new elements wont be in the alpha release of the game but will be
 	when beta goes live!
 	
-	Finally the new particle systems such as Rain & Clouds are most likely not able too be
+	Finally the new particle systems such as Rain & Clouds are most likely not able to be
 	ran	on low end machines. i have a i7 7700k 1080ti setup and run the map fine at 90fps.
 	
 
@@ -175,7 +180,8 @@ ________________________________________________________________________________
 
 
 			Version: Alpha 0.5 | Perfomance Improvements / Bug Fixes
-	
+			Release Date: 9/20/2018
+			
 		Changes:
 
 	- Revisioned the cabin roof
@@ -183,7 +189,7 @@ ________________________________________________________________________________
 	- Fixed heavy performance drop from candles
 	 *changed from realtime to baked mode
 	- The front door of the cabin no longer has a collider?
-	- Removed spericle mirror in the bucket
+	- Removed spherical mirror in the bucket
 	 *anything but using a quad mesh breaks the mirror
 	- the light emitted from the bucket is now baked
 	- fixed another collider issue with the cloth sheets in the cabin
@@ -191,28 +197,62 @@ ________________________________________________________________________________
 	- adjusted cloth script solverFrequency
 	 *solverFrequency = 160 (standard for moving objects) 60 (near still objects)
 	- ocean shader performance optimizations
-	 *tesselationStrength = 15 (orginally 64)
-	 *tesselationFarCap = 350 (orginally 2500)
+	 *tesselationStrength = 15 (originally 64)
+	 *tesselationFarCap = 350 (originally 2500)
 	- changed a few terrain texture sizes on their x, y axis
 	- grass now appears denser
 	- modified movement speed
-	 *walk speed set too 2.4 and run speed set too 4.5
+	 *walk speed set to 2.4 and run speed set to 4.5
 	- Draw distance set lower for terrain
 	 *to help your hardware from rendering everything way over there
 	
 	
-	This FINAL version for alpha is set too improve performance for older machines + squish
+	This FINAL version for alpha is set to improve performance for older machines + squish
 	a whole bunch of pesky bugs!
 	
-	Now this is the best time too move onto bigger things! 
+	Now this is the best time to move onto bigger things! 
 	Beta will include objects and props such as finishing the cabin, starting on the crashed
 	space plane and Monument Island.
 	
-	All soon will be revealed, i have big plans for Beta.
+	All soon i shall reveal the plans i have for Beta.
+	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Beta 1.0 | Perfomance Improvements / Bug Fixes / New OceanShader
+			Release Date: 9/23/2018	
+			PRE RELEASE - 1
+	
+		Changes:
+
+	- BRAND NEW WATER SHADER !
+	 *old water shader is now layer 2
+	 *new water shader is now layer 1
+	 *if you notice that the new ocean shader disappears on the side of your scream it's
+	  meant to do this.
+	- Revisioned the cabin roof
+	- Added effects/ lighting to the space plane
+	 *more is to be completed on this
+	- Done more terraforming tweaks to the terrain system
+	- Added extra details
+	 *such as cliff rocks, tree/s and more grass
+	- Improved performance within the cabin
+	 *texture sizes, 
+
+	 
+	This update brings forward a brand new stylish water shader, with much more controls,
+	amazing new appearances and graphics. No more bugs and blend errors!
+	
+	This update also introduces the hard-worked cabin and the spaceplane.
+	Plus the completed version of the rain particle system.
+	
+	More information will soon be released of the plans for beta in the Concept Plan.
+	
+	Beta 1.0 is a Pre-Release update and is not complete, consider this release as an open
+	beta.
 	
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
-
-
-	
