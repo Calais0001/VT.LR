@@ -253,6 +253,30 @@ ________________________________________________________________________________
 	Beta 1.0 is a Pre-Release update and is not complete, consider this release as an open
 	beta.
 	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Beta 1.0 | Ocean Shader / Fixes
+			Release Date: 9/23/2018	
+			PRE RELEASE - 2
+	
+	
+	*This update only releases fixes/ changes to the ocean shader
+	
+	
+	Pre-Release 2 introduces a slight change too the way the new ocean shader will be used
+	(including the old shader)
+	Firstly i would like too say that the new ocean shader is not VR compatible. sorry.
+	
+	Now the old shader can be used for players in VR or Desktop (no limits). by default 
+	the old shader will be active BUT using a panel that will be soon implemented will
+	allow the players too switch between both shaders.
+	
+	For now the new ocean shader has been disabled until i can make a Graphics Panel for
+	the world.
+	
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
