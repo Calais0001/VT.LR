@@ -277,6 +277,57 @@ ________________________________________________________________________________
 	For now the new ocean shader has been disabled until i can make a Graphics Panel for
 	the world.
 	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Beta 1.0 | World Size Compression / Release of BETA
+			Release Date: 9/25/2018	
+			PRE RELEASE - 3
+	
+		Changes:
+
+	- Compressed all textures using Crunch Compression
+	 *this will significantly improve load times
+	- The new tree now waves in the wind
+	- Added 3 buttons that allow players to improve client sided performance
+	 *Buttons toggle rain system and clouds
+	 *there is also a button that switches between the new ocean shader and the old one
+	  be warned this may cause heavy lag whilst it switches
+	- Added photo shoot pictures of LR
+	 *these are original photos taken directly in the Roblox Studio
+	- Both ocean shaders have been visually improved especially the old shader
+	 *no longer appears as if the player is tiny in a massive ocean
+	 *performance improvements with the new shader
+	- Partial implementation of LOD groups
+	 
+	 
+	Hooray! beta pre-release stages are over and this means beta is now live!
+	 
+	Some release highlights of beta brings a couple new features and content!  and lots
+	of fixing..
+	
+	One of those features is that you are now able to toggle the Rain, Clouds and even
+	switch between the new and old ocean shader!
+	 
+	Secondly this update completes the cabin! with its secrets plus the spaceplane and a
+	few other little things.
+	
+	Almost all the objects within the world now have partially working LOD groups
+	(this feature is partially implemented)
+	
+	The world size has dropped a whopping 250+ Megabytes! Crunch compression has been
+	introduced as well as mesh compression to assist
+	
+	Finally i am aware that sadly the new ocean shader is NOT VR compatible, thus why i 
+	went to the extent of implementing buttons too switch between them, please also take 
+	note that switching between shaders will temporarily freeze your client.
+	
+	My plans for beta will be added into the Concept plan within the next few days so keep
+	your eyes peeled over there.
+	 vr
+	
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
