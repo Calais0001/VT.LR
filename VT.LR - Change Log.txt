@@ -13,17 +13,15 @@ ________________________________________________________________________________
 RELEASED MAJOR VERSIONS
  Update 0.0: The Creation
  Description: The birth of the game
+ Update 1.0: Beta Release
+ Description: Release of advanced beta elements + more intricut graphics
 
 
-FUTURE MAJOR VERSIONS
- ###
- ###
-
-
+ 
 GAME STAGES
- Alpha is the first stage - Basic constructs to get the world started		(terrain, water etc)
- Beta is the second stage - Beginning more complex game constructs			(custom structures)
- Full Release			  - Game is either almost complete or is complete
+ Alpha		  - Basic constructs to get the world started	  (terrain, water etc)
+ Beta 		  - Beginning more complex game constructs		  (custom structures)
+ Full Release - Game is either almost complete or is complete (further patches/fixes)
 
 
 ___________________________________________________________________________________________
@@ -43,7 +41,7 @@ ________________________________________________________________________________
 	 *the terrain will most likely be not complete in this update and will be worked on more 
 	in later versions
 	- Added water shader that supports VR (TEST)
-	 *water is very heavily fine tuned for world setting, current shader settings may change
+	 *water is very heavily fine-tuned for world setting, current shader settings may change
 	in the future
 	 *the shader has been tested in VR and has passed.
 	- Added skybox
@@ -52,14 +50,16 @@ ________________________________________________________________________________
 	- Textured terrain with over 15+ different Ground_textures
 	 *currently incomplete
 	
-		Here comes the first update to this new VRChat world! at the moment i have no name 
-		for it so for now we'll call it Lonely Road 2. And yes its lonely road TWO.
-		the first was made in Roblox and was a big project back in 2013-2015, but only this
-		year i have officially ended development due to inactivity/ faults.
+	
+		Here comes the first update to this new VRChat world! at the moment I have no name 
+		for it so for now we'll call it Lonely Road 2. And yes it's Lonely Road TWO.
+		The first was made in Roblox and was a big project back in 2013-2015, but only this
+		year I have officially ended the development due to inactivity/faults and many 
+		other issues.
 		
 		To understand more about why this world has this link go visit the 
-		VT - LR Concept Plan, you can also find out the concept on this world and what it
-		may become in the future.
+		VT-LR Concept Plan, you can also find out the concept on this world and what it
+		may become in the future and the plans i have for it.
 	
 	
 -------------------------------------------------------------------------------------------
@@ -72,10 +72,10 @@ ________________________________________________________________________________
 		Changes:
 
 	- Added rain
-	 *heavy work needs to be done on this + 100% not performance checked
+	 *heavy work needs to be completed on this + 100% not performance checked
 	- Added Volumetric ray-traced clouds
-	 *very intensive on GPU - due to this it has been disabled until i can figure out
-	  graphics toggling (refer to change log description)
+	 *very intensive on GPU - due to this it has been disabled until I can make it
+	  performance friendly (refer to change log description)
 	- More work on the terrain texturing
 	 *considered complete at this stage
 	- Slight optimizations to the ocean shader
@@ -84,18 +84,18 @@ ________________________________________________________________________________
 	  spikes.
 	- Partially completed terrain grass textures
 	 *colors and appearance may be incorrect, more testing and editing is to be completed
-	- KNOWN ISSUE: at load time the rain maker appears to spawn the particles then halt then
-	  begin again, this issue is unknown at this time.
+	- KNOWN ISSUE: at load time the rain particle system appears to spawn the particles
+	  then halt then begin again, this issue is unknown at this time.
 	
 		
 	This update has roughly a weeks worth of work. Many changes have been made including
 	performance optimizations, terrain texture and form changes, additions such as volumetric 
 	clouds and many more.
 	
-	At this moment the volumetric clouds has been disabled due to heavy performance drops
-	whilst running the game in VR mode. Until i can add a local graphics control panel for 
-	users to toggle various graphical enhancements within the game i will re-enable them,
-	this goes for any other visual effects that i will include in the final version.
+	At this moment the volumetric clouds have been disabled due to heavy performance drops
+	whilst running the game in VR mode. Until I can add a local graphics control panel for 
+	users to toggle various graphical enhancements within the game I will re-enable them,
+	this goes for any other visual effects that I will include in the final version.
 
 	
 -------------------------------------------------------------------------------------------
@@ -116,7 +116,7 @@ ________________________________________________________________________________
 	- Added rocks near the shoreline
 	 *more work on this
 	- Added more different types of grass to the scene
-	- Water shader has been modified
+	- Water shader visual graphics have been tweaked
 	 *waves were big but appeared as if the player was incredibly tiny - this is a work
 	  in progress + the search for a better water shader is in progress
 	- Work on more efficient and diverse rain particle system has begun
@@ -139,21 +139,21 @@ ________________________________________________________________________________
 		Changes:
 
 	- Updated water shader
-	 *more continuous changes will happen until i think this shader appears perfect for
+	 *more continuous changes will happen until I think this shader appears perfect for
 	 the scene
 	- Begun working on Beta version elements
 	 *progress on a cabin featuring unity cloth script
-	 *added a space ship and picked a rough location for it
+	 *added a spaceship and picked a rough location for it
 	- Global_lighting temperature value is now 10200
 	- Optimised a few textures and reduced their sizes
 	- Fixed global lighting bias issues
 	- Ocean shader blending completely removed
-	 *since V0.3 its been playing up so i have decided to make it just a straight height
+	 *since V0.3 its been playing up so I have decided to make it just a straight height
 	 map and normal map with cubemap reflections
 	- Added a massive cloud particle system behind the mountain
 	 *a hint to what might come? hmm..
 	- Small optimizations to the rain particle system
-	 *trying to make this performance friendly as much as i can
+	 *trying to make this performance friendly as much as I can
 	- Grouped all scene objects
 	 *this is purely to help with development - no performance improvements
 	- Experimentation with flares
@@ -161,7 +161,7 @@ ________________________________________________________________________________
 	- oceanShaderBlending has been disabled **
 
 	
-	So since version 0.3 alpha the water shader has been playing up and i've even gone to
+	So since version 0.3 alpha the water shader has been playing up and I've even gone to
 	the extent of moving my whole scene to a new project but alas have failed. the issue 
 	persists and often fixes itself and then breaks again. this version it seems to be
 	working so blending has been re-activated but do keep in might this world may end up
@@ -185,7 +185,7 @@ ________________________________________________________________________________
 		Changes:
 
 	- Revisioned the cabin roof
-	 *i am 83% with the total appearance of this cabin
+	 *I am 83% with the total appearance of this cabin
 	- Fixed heavy performance drop from candles
 	 *changed from realtime to baked mode
 	- The front door of the cabin no longer has a collider?
@@ -197,8 +197,8 @@ ________________________________________________________________________________
 	- adjusted cloth script solverFrequency
 	 *solverFrequency = 160 (standard for moving objects) 60 (near still objects)
 	- ocean shader performance optimizations
-	 *tesselationStrength = 15 (originally 64)
-	 *tesselationFarCap = 350 (originally 2500)
+	 *tessellationStrength = 15 (originally 64)
+	 *tessellationFarCap = 350 (originally 2500)
 	- changed a few terrain texture sizes on their x, y axis
 	- grass now appears denser
 	- modified movement speed
@@ -210,11 +210,11 @@ ________________________________________________________________________________
 	This FINAL version for alpha is set to improve performance for older machines + squish
 	a whole bunch of pesky bugs!
 	
-	Now this is the best time to move onto bigger things! 
+	Now, this is the best time to move onto bigger things! 
 	Beta will include objects and props such as finishing the cabin, starting on the crashed
 	space plane and Monument Island.
 	
-	All soon i shall reveal the plans i have for Beta.
+	All soon I shall reveal the plans I have for Beta.
 	
 	
 -------------------------------------------------------------------------------------------
@@ -237,7 +237,7 @@ ________________________________________________________________________________
 	 *more is to be completed on this
 	- Done more terraforming tweaks to the terrain system
 	- Added extra details
-	 *such as cliff rocks, tree/s and more grass
+	 *such as cliff rocks, tree/s, and more grass
 	- Improved performance within the cabin
 	 *texture sizes, 
 
@@ -266,15 +266,15 @@ ________________________________________________________________________________
 	*This update only releases fixes/ changes to the ocean shader
 	
 	
-	Pre-Release 2 introduces a slight change too the way the new ocean shader will be used
+	Pre-Release 2 introduces a slight change to the way the new ocean shader will be used
 	(including the old shader)
-	Firstly i would like too say that the new ocean shader is not VR compatible. sorry.
+	Firstly I would like to say that the new ocean shader is not VR compatible. sorry.
 	
 	Now the old shader can be used for players in VR or Desktop (no limits). by default 
 	the old shader will be active BUT using a panel that will be soon implemented will
 	allow the players too switch between both shaders.
 	
-	For now the new ocean shader has been disabled until i can make a Graphics Panel for
+	For now, the new ocean shader has been disabled and until I can make a Graphics Panel for
 	the world.
 	
 	
@@ -295,7 +295,7 @@ ________________________________________________________________________________
 	 *Buttons toggle rain system and clouds
 	 *there is also a button that switches between the new ocean shader and the old one
 	  be warned this may cause heavy lag whilst it switches
-	- Added photo shoot pictures of LR
+	- Added photoshoot pictures of LR
 	 *these are original photos taken directly in the Roblox Studio
 	- Both ocean shaders have been visually improved especially the old shader
 	 *no longer appears as if the player is tiny in a massive ocean
@@ -311,23 +311,62 @@ ________________________________________________________________________________
 	One of those features is that you are now able to toggle the Rain, Clouds and even
 	switch between the new and old ocean shader!
 	 
-	Secondly this update completes the cabin! with its secrets plus the spaceplane and a
+	Secondly, this update completes the cabin! with its secrets plus the spaceplane and a
 	few other little things.
 	
 	Almost all the objects within the world now have partially working LOD groups
-	(this feature is partially implemented)
+	(this feature is half implemented)
 	
 	The world size has dropped a whopping 250+ Megabytes! Crunch compression has been
 	introduced as well as mesh compression to assist
 	
-	Finally i am aware that sadly the new ocean shader is NOT VR compatible, thus why i 
+	Finally, I am aware that sadly the new ocean shader is NOT VR compatible, thus why i 
 	went to the extent of implementing buttons too switch between them, please also take 
 	note that switching between shaders will temporarily freeze your client.
 	
 	My plans for beta will be added into the Concept plan within the next few days so keep
 	your eyes peeled over there.
-	 vr
+	 
+	 
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Beta 1.1 | Terrain Tweaks / Object Tweaks / Mountain Completion
+			Release Date: 9/26/2018	
 	
+		Changes:
+
+	- Unity Fog!
+	 *this was delayed for a while but now has been added finally
+	- Removed grass that clips through the cabin
+	 *there still might be some, I can't remove 100% of it
+	- The grass is a lot thinner
+	 *may help with motion sickness/performance
+	- Tweaks/ changes to the terrain around the mountain
+	 *texture changes, heightmap changes, object adjustments, mesh compression. etc
+	 *jagged or sharp points have also been smoothed out around the map
+	- Lowered the tessellation strength on the galaxy balls
+	 *increases performance at the cost of quality, which isn't very noticeable
+	- Adjusted the performance throttler
+	 *made easier to reach the buttons for VR users
+	 *buttons now have specialized cube maps for what they do
+	- Removed the player speed mode
+	
+
+	This update features the near completion of the mountain plus a bunch of small
+	fixes in and around the map plus Unity Fog! not much to say about it... its fog.
+	
+	The new performance throttler was rushed in the first beta release so I've
+	taken the time to improve it slightly, each button now has its own cubemap to 
+	an attempt at giving away what it does. Such as, The bright blue underwater one 
+	changes between the two ocean shaders, the second one with the default skybox is
+	the rain system and finally the clouds button toggle's the clouds
+	
+	One last thing is that the clouds will soon be revamped and re-done for M.I, this 
+	means it has been disabled and the button has been removed from the game.
+	Until M.I is released the clouds will reappear.
+
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
