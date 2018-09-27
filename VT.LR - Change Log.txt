@@ -373,7 +373,7 @@ ________________________________________________________________________________
 
 
 			Version: Beta 1.2 | Performance/Visual Improvements / M.I Preperation
-			Release Date: 9/26/2018	
+			Release Date: 9/28/2018	
 	
 		Changes:
 
