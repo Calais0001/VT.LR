@@ -366,6 +366,46 @@ ________________________________________________________________________________
 	One last thing is that the clouds will soon be revamped and re-done for M.I, this 
 	means it has been disabled and the button has been removed from the game.
 	Until M.I is released the clouds will reappear.
+	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: Beta 1.2 | Performance/Visual Improvements / M.I Preperation
+			Release Date: 9/26/2018	
+	
+		Changes:
+
+	- Each Perf Thottler button now have they're own spinning icons above
+	 *the button that switches between the 2 shaders has a heavy load icon due to load time
+	 *the rain system toggler has a rain cloud with lightning
+	 *the clouds system (temporarily removed) has a clouds icon
+	- World barriers have now been implemented to prevent players from travelling outside
+	  the map
+	- Occlusion has been enabled
+	 *It prevents objects from being rendered if you cannot see them behind other
+	  static objects
+	- Final Gather has been enabled also improving visual graphics
+	- Lightmap settings adjusted
+	- Ambient occlusion has been completely disabled
+	 *VRChat does not handle AO correctly so it has been disabled to improve performance
+	- Adjusted the Environment Lighting Intensity Multiplier
+	 *set to 0.52
+	- KNOWN ISSUE: The main directional light appears too make all shadows in the
+	  scene flicker (THIS HAS BEEN FIXED)
+	  
+	  
+	This update releases a bunch of changes to the lightmap settings, Final gather,
+	Occlusion and a patch for the directional light (VT-LR#0001).
+	
+	The changes will improve performance and visual effects PLUS my knowledge on these
+	before unseen tools have given me the ability to learn more about Unity and what it
+	can do.
+	
+	The next update will be a while as i am now prepping to begin work on.. M.I
+	To find out what M.I is check the concept plan, bits and pieces are mentioned but
+	no real information has been leaked yet!
 
 ___________________________________________________________________________________________
 
