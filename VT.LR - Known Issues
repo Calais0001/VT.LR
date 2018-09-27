@@ -1,0 +1,24 @@
+
+								   VT-LR KNOWN ISSUES
+								   VT-LR KNOWN ISSUES
+								   VT-LR KNOWN ISSUES
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
+
+
+ANY SUBMITTED BUG REPORTS TO MY DISCORD OR INGAME WILL BE PUT HERE AND
+If a bug has been resolved it will have a "✔️" next to it.
+
+		Known Issues:
+	
+VTLR#0001️✔️- The main directional light appears too make all shadows in the scene flicker
+
+VTLR#0002✔️- At load time the rain particle system appears to spawn the particles
+			then halt then begin again, this issue is unknown at this time.
+VTLR#0003 - First time load may take awhile due to the world size being excessive 
+			
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
