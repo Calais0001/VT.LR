@@ -20,6 +20,10 @@ VTLR#0002✔️- At load time the rain particle system appears to spawn the part
 VTLR#0003 - First time load may take awhile due to the world size being excessive 
 
 VTLR#0004 - New ocean shader is not compatible with Virtual Reality devices
+
+VTLR#0005 - Most avatars have their leg shadows cut off
+
+VTLR#0006✔️- The button that changes between the two ocean shaders causes a massive lag spike
 			
 ___________________________________________________________________________________________
 

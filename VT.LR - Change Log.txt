@@ -406,7 +406,46 @@ ________________________________________________________________________________
 	The next update will be a while as i am now prepping to begin work on.. M.I
 	To find out what M.I is check the concept plan, bits and pieces are mentioned but
 	no real information has been leaked yet!
+	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
+
+			Version: Beta 1.3 | World Size Compression System / New Features / M.I
+			Release Date: 10/14/2018	
+	
+		Changes:
+
+	- Significantly reduced the worlds download size
+	 *a better compression system has been introduced using HQ and LQ materials
+	- Added VRC mirror
+	 *can be found not far from the spaceship
+	- Changed the ocean shader button icon to a wave symbol
+	 *good news is that the implementation of occlusion culling has fixed the major lag
+	  spike when loading between the two ocean shaders
+	- Fixed the big tree's colliders
+	 *was set to Is Trigger by accident
+	- Added reflection probes where necessary
+	- Ocean shader render distances lowered due to Unity Fog
+	 *thankfully unity fog obscures both shaders at a distance
+	- Improved randomness and synchronization of the space plane's effects
+	 *added engine hum audio source
+	 *when sparks collide with the terrain they now lose 0.4 lifetime
+	- Cabin radio now has static noise
+	- Specular reflections changed slightly
+	- All rocks now have a new detail texture
+	
+	This version introduces a system to help combat the world size issue, Several new
+	features for distant or up close models now include HQ or LQ materials plus mesh
+	compression. I've also taken the time to individually adjust the crunch compression
+	settings on every texture loaded in the game.
+	
+	Progress on Monument Island has continued, at this moment a silhouette of the island
+	can only be seen.. But soon players will be able to travel M.I once complete.
+
+	Version 1.3 Beta also includes the VRCmirror, Smaller world size, Lighting corrections,
+	PS improvements
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
