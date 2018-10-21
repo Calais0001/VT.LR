@@ -437,7 +437,7 @@ ________________________________________________________________________________
 	- All rocks now have a new detail texture
 	
 	This version introduces a system to help combat the world size issue, Several new
-	features for distant or up close models now include HQ or LQ materials plus mesh
+	features for distant or up clo1se models now include HQ or LQ materials plus mesh
 	compression. I've also taken the time to individually adjust the crunch compression
 	settings on every texture loaded in the game.
 	
@@ -446,6 +446,45 @@ ________________________________________________________________________________
 
 	Version 1.3 Beta also includes the VRCmirror, Smaller world size, Lighting corrections,
 	PS improvements
+	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: 1.4 | World Size Compression System / New Features / M.I
+			Release Date: 10/20/2018	
+	
+		Changes:
+
+	- MONUMENT ISLAND RELEASED
+	 *progress has been completed
+	- CRASH ISLAND COMPLETE
+	 *there still may be little things to do but at this time it is complete
+	- COMPRESSION SYSTEM COMPLETE
+	 *continued to apply this new system to loaded objects
+	 *compressed all cubemaps
+	- VRCmirror now has a brick base
+	- changed spawn point system
+	 *removed the spawn pad
+	- Any objects without collision meshes has now been fixed
+	 *some also removed if are unnessecary
+	- Entire map has invisible barriers
+	 *Crash island, M.I island, M.I Chamber
+	- Occlusion Culling disabled due to complications
+	 *see VTLR#0007 for more information
+	- A major error occured in the release of this version, it has been resolved
+	 *a script that is auto loaded by the VRC-SDK
+
+	 
+	Finally! the game is finished.. Well sort of, I have more polishing to do but
+	for now Monument Island and the Crash island is completed. 
+	
+	The new compression system has been fully implemented and has reduced the world size 
+	to under 180MB
+	
+	Any further updates to the world will be polish updates, the world will soon go public
+	
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________

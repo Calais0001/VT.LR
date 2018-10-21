@@ -9,32 +9,30 @@ ________________________________________________________________________________
 
 
 VETRA & LONELY ROAD CONNECTED CONCEPT PLAN
-
+lines with ticks ~ idea partially/fully implemented
 
 
 
 		WORLD SETTING / VISUAL GRAPHICS
-	- World setting to be dark and stormy (Inspired by Lonely Road environment setting)
-	- Rain particle system
-	- Lightning/Clouds behind Monument Island
+	✔️ - World setting to be dark and stormy (Inspired by Lonely Road environment setting)
+	✔️ - Rain particle system
+	  - Lightning/Clouds behind Monument Island (COMING SOON)
 		
 		
 		MONUMENT ISLAND
-	- The Monument structure has to be in an enclosed chamber on a rock island   (Inspired by Bioshock: Infinite)
-	- Surrounded by water with a spiral staircase leading upwards to the entrance(Inspired by Monument Island from Lonely Road)
-	- On the inside there is a single room with Vietra Galaxy as a rock statue   (Inspired by the Statue within Monument Island)
-	- The inside is to have some kind of light shining down onto her and posibly 
+	✔️ - The Monument statue has to be in an enclosed chamber on a rock island      (Inspired by Bioshock: Infinite)
+	✔️ - Surrounded by water with a spiral staircase leading upwards to the entrance(Inspired by Monument Island from Lonely Road)
+	✔️ - On the inside there is a single room with Vietra Galaxy as a rock statue   (Inspired by the Statue within Monument Island)
+	✔️ - The inside is to have some kind of light shining down onto her and possibly 
 	  with somthing relating to her eyes
-	- Maybe an engraving of her name on the statue base
-	- use the portal shader/stencil for something
+
 
 		MAIN ISLAND
-	- A main island with a cabin that can serve as shelter
-	- The cabin to hold original photos from the 2014 Roblox game, Lonely Road
-	- Some kind of panel too switch off certain systems
-	- Some sort of foliage coverage on the main island
-	- The cliff summit to have an outcropping with M.I seen in the distance
-	- The original theme song hidden somewhere
+	✔️ - A main island with a cabin that can serve as shelter
+	✔️ - The cabin to hold original photos from the 2013 Roblox game, Lonely Road
+	✔️ - Some kind of panel too switch off certain systems for performance improvement
+	✔️ - Some sort of foliage coverage on the main island
+	✔️ - The cliff summit to have an outcropping with M.I seen in the distance
 
 ___________________________________________________________________________________________
 ___________________________________________________________________________________________
