@@ -436,6 +436,7 @@ ________________________________________________________________________________
 	- Specular reflections changed slightly
 	- All rocks now have a new detail texture
 	
+	
 	This version introduces a system to help combat the world size issue, Several new
 	features for distant or up clo1se models now include HQ or LQ materials plus mesh
 	compression. I've also taken the time to individually adjust the crunch compression
@@ -452,9 +453,9 @@ ________________________________________________________________________________
 -------------------------------------------------------------------------------------------
 
 
-			Version: 1.4 | World Size Compression System / New Features / M.I
-			Release Date: 10/20/2018	
-	
+			Version: 1.4 | Monument Island Release / Game Completion 
+			Release Date: 10/21/2018	
+
 		Changes:
 
 	- MONUMENT ISLAND RELEASED
@@ -468,22 +469,22 @@ ________________________________________________________________________________
 	- changed spawn point system
 	 *removed the spawn pad
 	- Any objects without collision meshes has now been fixed
-	 *some also removed if are unnessecary
+	 *some also removed if are unnecessary
 	- Entire map has invisible barriers
 	 *Crash island, M.I island, M.I Chamber
 	- Occlusion Culling disabled due to complications
 	 *see VTLR#0007 for more information
-	- A major error occured in the release of this version, it has been resolved
-	 *a script that is auto loaded by the VRC-SDK
+	- A major error occurred in the release of this version, it has been resolved
+	 *a script that is auto-loaded by the VRC-SDK
 
 	 
 	Finally! the game is finished.. Well sort of, I have more polishing to do but
-	for now Monument Island and the Crash island is completed. 
-	
+	for now, Monument Island and the Crash island is complete. 
+
 	The new compression system has been fully implemented and has reduced the world size 
 	to under 180MB
-	
-	Any further updates to the world will be polish updates, the world will soon go public
+
+	Any further updates to the world will be polishing updates, the world will soon go public
 	
 ___________________________________________________________________________________________
 
