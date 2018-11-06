@@ -486,6 +486,25 @@ ________________________________________________________________________________
 
 	Any further updates to the world will be polishing updates, the world will soon go public
 	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: 1.5 | Patch Update 
+			Release Date: 10/21/2018	
+
+		Changes:
+
+	- Fixed vietra's eyes being out of her body
+	 *heirachy 
+	- Multiple texture corrections
+	 *specular mapping
+	 *texture compression compensating
+	 *color corrections
+	- Main Island world barriers changed slightly
+	 
+	This is a patch version, the game is now available all VRC users.
+	
 ___________________________________________________________________________________________
 
 ___________________________________________________________________________________________
