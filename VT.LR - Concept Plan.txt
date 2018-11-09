@@ -15,7 +15,7 @@ lines with ticks ~ idea partially/fully implemented
 
 		WORLD SETTING / VISUAL GRAPHICS
 	✔️ - World setting to be dark and stormy (Inspired by Lonely Road environment setting)
-	✔️ - Rain particle system
+	✔️ - Rain particle system (Now added to Monument Island)
 	  - Lightning/Clouds behind Monument Island (COMING SOON)
 		
 		
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 SHORT SYNOPSIS OF VT/LR
 
-	VETRA(VT) is Vietra Galaxy and is my main avatar for VRChat - 2018
+	VIETRA(VT) is Vietra Galaxy and is my main avatar for VRChat - 2018
 	
 		Vietra existed within a cloud of purple vapour surrounded by the blackness of space.
 		she grew and lived for billions of years until awakening recently due to being..

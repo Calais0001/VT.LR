@@ -486,24 +486,50 @@ ________________________________________________________________________________
 
 	Any further updates to the world will be polishing updates, the world will soon go public
 	
+	
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
 
 
 			Version: 1.5 | Patch Update 
-			Release Date: 10/21/2018	
+			Release Date: 11/6/2018	
 
 		Changes:
 
 	- Fixed vietra's eyes being out of her body
-	 *heirachy 
+	 *hierarchy 
 	- Multiple texture corrections
 	 *specular mapping
 	 *texture compression compensating
 	 *color corrections
 	- Main Island world barriers changed slightly
 	 
-	This is a patch version, the game is now available all VRC users.
+	This is a patch version, the game is now available for all VRC users.
+	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: 1.6 | Patch Update / Occlusion Culling 
+			Release Date: 11/9/2018	
+
+		Changes:
+
+	- Occlusion culling has been re-introduced
+	 *the Monument Island chamber should no longer have issues with occlusion culling
+	- Removed a random cube
+	- Most texture sizes have been made 512x512
+	 *to compensate for appearance whilst keeping sizes low the crunch compression on some
+	 textures have been halved
+	- The photos in the cabin should now be visible even in low light 
+	 *ignores lighting system
+
+	This is a patch version, the game is now available for all VRC users.
+	
+	Occlusion culling has been re-enabled as a friendly VRC user has come out of the
+	shadows to give some light on my issue I was experiencing.
+	All problems should no longer occur with occlusion culling.
 	
 ___________________________________________________________________________________________
 
