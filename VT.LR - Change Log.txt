@@ -15,6 +15,8 @@ RELEASED MAJOR VERSIONS
  Description: The birth of the game
  Update 1.0: Beta Release
  Description: Release of advanced beta elements + more intricut graphics
+  Update 1.4: Full Release
+ Description: The game is complete and has been made public
 
 
  
@@ -504,6 +506,7 @@ ________________________________________________________________________________
 	 *color corrections
 	- Main Island world barriers changed slightly
 	 
+	 
 	This is a patch version, the game is now available for all VRC users.
 	
 	
@@ -525,11 +528,36 @@ ________________________________________________________________________________
 	- The photos in the cabin should now be visible even in low light 
 	 *ignores lighting system
 
+	 
 	This is a patch version, the game is now available for all VRC users.
 	
 	Occlusion culling has been re-enabled as a friendly VRC user has come out of the
 	shadows to give some light on my issue I was experiencing.
 	All problems should no longer occur with occlusion culling.
+	
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: 1.7 | UNITY 2017 UPGRADE / New Features/Improvements/Bug Fixes
+			Release Date: 11/9/2018	
+
+		Changes:
+
+	- Adjustments to the light map settings
+	 *light maps are now compressed
+	 *terrain lightmap settings optimized
+	- Adjusted occlusion culling
+	 *some parts of the world bug out when having this enabled, they have been fixed.
+	 *VRC mirror no longer is affected by occlusion culling
+	- All Audio Sources have been converted to .ogg due to compatibility issues
+	- The monument island audio source covers the entire island now
+	- Corrected rock colors
+	- All lod groups have been deleted
+
+	
+	This version is just to fix any migration errors from 5.6 to 2017.4.
 	
 ___________________________________________________________________________________________
 
