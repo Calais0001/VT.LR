@@ -541,7 +541,7 @@ ________________________________________________________________________________
 
 
 			Version: 1.7 | UNITY 2017 UPGRADE / New Features/Improvements/Bug Fixes
-			Release Date: 11/9/2018	
+			Release Date: 12/12/2018	
 
 		Changes:
 
@@ -558,6 +558,22 @@ ________________________________________________________________________________
 
 	
 	This version is just to fix any migration errors from 5.6 to 2017.4.
+	
+	
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+
+			Version: 1.8 | Lighting Error / Patch Update
+			Release Date: 12/18/2018	
+
+		
+		This update fixes an unusual error with all lighting.
+		
+		Symptoms were:
+		All lights were disabled
+		Everything was reverted back to realtime
+		Lightmaps weren't baked in the final upload
 	
 ___________________________________________________________________________________________
 
